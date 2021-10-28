@@ -2,7 +2,7 @@
 <h1 align="center">
 bus-tracker
 </h1>
-<p align="center">An app tracking all the MBTA buses around MIT, and give their positions in real time<p>
+<p align="center">An application tracking all the MBTA buses around MIT, and give their positions in real time<p>
 
 ## Description
 
