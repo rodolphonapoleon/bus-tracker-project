@@ -10,11 +10,6 @@ The app tracks the route 1 of all MBTA buses in real time. Every 15 seconds, the
 
 ## Getting Started
 
-### Dependencies
-
-* All recent browsers will run the HTML file
-* Working on mobile devices
-
 ### Installing
 
 1. Create an account and get a free API Access Token at [https://www.mapbox.com/](https://www.mapbox.com/)
@@ -27,11 +22,11 @@ The app tracks the route 1 of all MBTA buses in real time. Every 15 seconds, the
   mapboxgl.accessToken = 'YOUR ACCESS TOKEN'
   ```
 
-### Executing program
+### Executing application
 
 * Open the comand line 
 * Go to the directory where the files are located
-* And simply open the html file with the command `open` for mac users 
+* And simply open the html file with the command `open` 
 ```
 open index.html
 ``` 
